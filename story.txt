@@ -4,3 +4,10 @@ The king was very angry, so he tried to recruit a strong army to defeat the evil
 gave the person that defeat the dragon anything he wanted. At this time, a brave farmer heard this news. He
 came to the palace to join in the army, but he found there were only nine people in the army
 because other people were too afraid of the dragon. Then, the journey of this team began.
+Middle:
+  The team started their long trek to the dragon's lair. Along the journey the farmer started to realize that
+  many of the team members seemed to have no interest in working together to slay the dragon. The farmer
+  pleaded with them as the journey progressed to make a plan as a team to give them a chance against the dragon.
+  A few other members started to make a plan with the farmer, but most of the members had no interest in the
+  farmers plan. At this time, the group spotted the dragon's lair in the distance and realized they were about
+  to reach their destination.
