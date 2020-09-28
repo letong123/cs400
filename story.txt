@@ -11,3 +11,10 @@ Middle:
   A few other members started to make a plan with the farmer, but most of the members had no interest in the
   farmers plan. At this time, the group spotted the dragon's lair in the distance and realized they were about
   to reach their destination.
+End:
+  Upon reaching the dragon's lair, five of the army members decided that they were not going to help slay the dragon.
+  The farmer fought back his tears as he watched them leave - he was terrified but didn't want to look weak in front
+  of the others. The team had spent so much time arguing about whether or not they should do anything, they didn't hatch
+  a scheme at all. Before they could, the dragon flew towards them and dropped a comically tiny paper by their feet.
+  The farmer picked it up and read it aloud: "She's safe - I only borrowed her because I'm need help redecorating my 
+  room; I'll drop her off tomorrow."
